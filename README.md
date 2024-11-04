@@ -1,7 +1,7 @@
 
 # Mercato App
 
-Voici un guide d'installation pour cette application Spring Boot avec MySQL, en suivant les étapes pour configurer l'environnement, la base de données, et exécuter l'application.
+Guide d'installation pour cette application Spring Boot avec MySQL, veuillez suivre les étapes pour configurer l'environnement, la base de données, et exécuter l'application.
 
 
 
